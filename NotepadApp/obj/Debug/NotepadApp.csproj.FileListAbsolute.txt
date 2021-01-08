@@ -1,0 +1,28 @@
+D:\NotepadApp\bin\Debug\NotepadApp.exe.config
+D:\NotepadApp\bin\Debug\NotepadApp.exe
+D:\NotepadApp\bin\Debug\NotepadApp.pdb
+D:\NotepadApp\obj\Debug\NotepadApp.csprojAssemblyReference.cache
+D:\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+D:\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+D:\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+D:\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+D:\NotepadApp\obj\Debug\NotepadApp.exe
+D:\NotepadApp\obj\Debug\NotepadApp.pdb
+D:\NotepadApp\obj\Debug\NotepadApp.Form2.resources
+D:\NotepadApp\obj\Debug\NotepadApp.search.resources
+D:\NotepadApp\obj\Debug\NotepadApp.Form1.aa-DJ.resources
+D:\NotepadApp\obj\Debug\NotepadApp.Form1.aa.resources
+D:\NotepadApp\obj\Debug\aa-DJ\NotepadApp.resources.dll
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.csprojAssemblyReference.cache
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.Form1.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.Form2.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.Notepad__.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.Properties.Resources.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.search.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.Form1.aa-DJ.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.Form1.aa.resources
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\aa-DJ\NotepadApp.resources.dll
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.exe
+D:\NotepadApp. Unfinished due to final boss error- Leang Lyhour Group M8\obj\Debug\NotepadApp.pdb
